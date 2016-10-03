@@ -1,3 +1,5 @@
+package ar.edu.itba.faraday.rpc;
+
 /**
  * Exception representing an error during an RPC call.
  */
